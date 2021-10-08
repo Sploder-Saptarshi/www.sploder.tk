@@ -11,7 +11,7 @@ showinSearchEngines: true
 
 
 # Set basic server info
-serverName: Moonrise MC
+serverName: Sploder!
 serverDescription: Sploder's Minecraft Server
 serverIP: mc.sploder.tk
 useBedrockForOnlineStatus: false
